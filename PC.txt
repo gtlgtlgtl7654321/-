@@ -1,0 +1,9 @@
+chrome
+    插件
+        Adblock Plus、Google 翻译、Infinity 新标签页、
+        OneTab、谷歌访问助手（！！！）
+        Tampermonkey（油猴插件）
+            破解VIP会员视频集合、网页限制解除、护眼脚本等
+    小应用
+        小番茄
+
